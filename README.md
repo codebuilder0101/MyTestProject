@@ -1,6 +1,5 @@
 # MyTestProject
 
-I updated
 
 updated
 
